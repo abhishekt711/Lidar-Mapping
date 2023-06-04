@@ -8,3 +8,8 @@
 mkdir aloam
 cd aloam
 git clone
+
+
+
+
+
